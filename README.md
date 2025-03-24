@@ -12,6 +12,10 @@ CSS: Para estilização e aplicação do efeito.
 
 📸 Demonstração
 
+<p align="center">
+  <img alt="Agregador de Links" src="https://i.ibb.co/wNjqsZBG/react.jpg" width="50%">
+</p>
+
 📜 Licença
 
 Este projeto está sob LêninDev. Veja o arquivo LICENSE para mais detalhes.
